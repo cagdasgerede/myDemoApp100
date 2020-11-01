@@ -1,1 +1,1 @@
-Hello world
+[![Build Status](https://travis-ci.com/cagdasgerede/myDemoApp100.svg?branch=main)](https://travis-ci.com/cagdasgerede/myDemoApp100)
